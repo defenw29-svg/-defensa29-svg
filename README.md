@@ -103,6 +103,7 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 ![Bash](https://img.shields.io/badge/Bash-Scripts-black?style=for-the-badge&logo=gnu-bash)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Harden-blue?style=for-the-badge&logo=powershell)
+![Windows](https://img.shields.io/badge/Windows-Hardening-red?style=for-the-badge&logo=windows)
 
 ---
 ### Resumen del laboratorio actual
