@@ -86,7 +86,8 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 
 > Las herramientas no sustituyen la metodología ni la autorización. Aprender, practicar y reportar de forma responsable.
 
-<img width="1920" height="1280" alt="825340235_1619657219668293_2565150804011685451_n" src="https://github.com/user-attachments/assets/cafa99b6-14ea-4b73-9e73-426061055e3d" />
+<img width="1920" height="1280" alt="image_20260926_004346-uso-etico-y-con-permiso-mejor-en-el-medio-icluye-mi-nombre-herramientas-clave" src="https://github.com/user-attachments/assets/0df23a59-ad52-4115-9dbe-f798aed560d1" />
+
 
 ---
 
