@@ -4,7 +4,6 @@
 
 ![](imagen/bbefa799786133.5efa9bf3d1b49.gif)
 
-
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
 
 Profesional de Soporte Técnico y SecOps enfocado en mercado IT, con sólida formación práctica y certificaciones oficiales en ciberseguridad, automatización y gestión de incidencias L1/L2.
