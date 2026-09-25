@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
-<img width="1920" height="1280" alt="image" src="https://github.com/imagen/bbefa799786133.5efa9bf3d1b49.gif"/>
+
+<img src="imagen/bbefa799786133.5efa9bf3d1b49.gif" width="100%" alt="Banner Principal">
 
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
