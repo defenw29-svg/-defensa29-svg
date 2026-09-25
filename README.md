@@ -1,5 +1,4 @@
-# 🚀 Desarrollador Full Stack y de IA Agénica - PERO ENFOCADO A SECOPS | Creación de aplicaciones web escalables y soluciones basadas en IA
-
+# 🚀 Especialista TI | Junior SecOps & SIEM | Docker & IBM
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
 <img width="1400" height="788" alt="bbefa799786133 5efa9bf3d1b49" src="https://github.com/user-attachments/assets/2a2b3be3-f079-4fca-b5a9-9bccaac99b0e" />
