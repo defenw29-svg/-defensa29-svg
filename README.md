@@ -98,13 +98,21 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 ![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=for-the-badge)
 ![Trivy](https://img.shields.io/badge/Trivy-Hardening-red?style=for-the-badge)
 
+### 💻 Pila tecnológica
+
+**Seguridad y Redes**
+![PaloAlto](https://img.shields.io/badge/PALOALTO-XSOAR-FF6A00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Cisco](https://img.shields.io/badge/CISCO-SECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-ANALYSIS-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Trivy](https://img.shields.io/badge/TRIVY-HARDENING-C71B26?style=for-the-badge&logo=aqua&logoColor=white)
+
 **Sistemas**
-![Docker](https://img.shields.io/badge/Docker-Swarm-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-![Bash](https://img.shields.io/badge/Bash-Scripts-black?style=for-the-badge&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/PowerShell-Harden-blue?style=for-the-badge&logo=powershell)
-![Windows](https://img.shields.io/badge/Windows-Hardening-0078D6?style=for-the-badge&logo=windows&logoColor=white)
----
+![Docker](https://img.shields.io/badge/DOCKER-SWARM-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-SCRIPTS-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-HARDEN-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-HARDENING-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
 ### Resumen del laboratorio actual
 **Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo y endurecimiento para SOC L1/L2. 
 
