@@ -79,7 +79,7 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 `Reconocimiento (Entiende el entorno) -> Análisis (Identifica riesgos) -> Validación (Confirma hallazgos)`
 
 > Las herramientas no sustituyen la metodología ni la autorización. Aprender, practicar y reportar de forma responsable.
-
+> <img width="800" height="998" alt="1789915370346" src="https://github.com/user-attachments/assets/11345c9f-1ae7-4a91-afef-f0810bba3d48" />
 ---
 
 ### 💻 Pila tecnológica
