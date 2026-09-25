@@ -14,18 +14,27 @@ Fundamentos de Docker y SecOps demostrados de forma continua en mis laboratorios
 **🔹 CERTIFICACIONES Y COMPETENCIAS CLAVE:**
 
 🛡️ **Palo Alto Networks:** SecOps, arquitectura SOAR (Cortex XSOAR), gestión de amenazas (TIM) y aislamiento de endpoints (XDR/XSIAM).
+
 🎯 **Hacking Ético & IA:** Certificado en "Hacker ético" y "Cazador de amenazas de IA".
+
 🌐 **Cisco Systems:** Redes, ciberseguridad, análisis de amenazas, controles y seguridad perimetral.
+
 💻 **IBM SkillsBuild:** TI avanzada (DHCP/IP, cloud, APIs), ciberseguridad y datos.
+
 🤖 **Anthropic:** Claude 101 y Claude Code (Automatización, prompts y auditorías con RAG).
+
 🏛️ **Fundación Carlos Slim:** Técnico en Sistemas Informáticos, Seguridad Perimetral, Análisis de Riesgos e Investigación Digital.
+
 🔑 **Microsoft:** Identidades, accesos y gobernanza con Microsoft Entra ID.
 
 **⚙️ CAPACIDADES TÉCNICAS Y OPERATIVAS:**
 
 🐳 **Seguridad en Contenedores:** Bastionado (hardening) de entornos Docker e implementación de soluciones defensivas (Trivy, Falco) y despliegue automatizado de infraestructuras de alta disponibilidad, auto-reparación (Self-healing) y actualizaciones progresivas en caliente (Rolling Updates) con Docker Swarm.
+
 📡 **Auditoría de Redes:** Análisis profundo de tráfico y protocolos con Wireshark para detección de anomalías.
+
 🤖 **Automatización:** Desarrollo de scripts propios (.bat / .reg / .sh / .ps1) para optimización de sistemas y laboratorios de pruebas.
+
 🎧 **Soporte, Helpdesk y SLAs:** Configuración e incidencias en Windows (95 a 11). Titulación Oficial SEXPE: Empleado de Información al Cliente homologada, con competencias en soporte omnicanal, Helpdesk, cumplimiento de SLAs, aplicación de RGPD y gestión de Knowledge Base.
 
 ---
