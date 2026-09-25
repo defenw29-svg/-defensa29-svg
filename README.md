@@ -1,7 +1,7 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
-
+<img width="1400" height="788" alt="bbefa799786133 5efa9bf3d1b49" src="https://github.com/user-attachments/assets/9add7dad-b1cc-493a-b3fa-5de37b22cc64" />
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
 
