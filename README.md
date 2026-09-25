@@ -109,5 +109,15 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 **Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo y endurecimiento para SOC L1/L2. 
 
 Validación de ciclo de vida de parches en Ubuntu y Windows, deshabilitado de SMBv1 y cierre de puertos (vsftpd/21) con UFW.
+### 🏅 Certificaciones / Credly
+
+[![Network Engineer - Isovalent](https://img.shields.io/badge/ISOVALENT-Network_Engineer_Discovery-7BC55B?style=for-the-badge&logo=isovalent&logoColor=white)](https://www.credly.com/badges/tu-enlace-aqui)
+**Descubrimiento: Ingeniero de redes** — Emitido por Isovalent — 1 de septiembre de 2026
+
+`BGP` `Cilium` `Hubble` `Kubernetes` `eBPF` `Observabilidad` `Código abierto`
+
+[Verificar insignia en Credly](https://www.credly.com/users/ivan-ajenjomorales/badges)
+
+![Isovalent Lab](https://images.credly.com/size/220x220/images/1a6b1b3e-5b8c-4a9e-9f2b-8f4e5d6c7b8a.png)
 
 **Autor:** Iván Ajenjo Morales | L1/L2 ITIL SecOps | Licencia MIT
