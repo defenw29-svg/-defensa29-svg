@@ -1,7 +1,6 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
-<img width="1920" height="1280" alt="825340235_1619657219668293_2565150804011685451_n" src="https://github.com/user-attachments/assets/9e92b69a-ab98-4b0a-9fb0-4fb97f753fbf" />
 
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
@@ -86,7 +85,9 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 `Reconocimiento (Entiende el entorno) -> Análisis (Identifica riesgos) -> Validación (Confirma hallazgos)`
 
 > Las herramientas no sustituyen la metodología ni la autorización. Aprender, practicar y reportar de forma responsable.
-> <img width="800" height="998" alt="1789915370346" src="https://github.com/user-attachments/assets/11345c9f-1ae7-4a91-afef-f0810bba3d48" />
+
+<img width="1920" height="1280" alt="825340235_1619657219668293_2565150804011685451_n" src="https://github.com/user-attachments/assets/cafa99b6-14ea-4b73-9e73-426061055e3d" />
+
 ---
 
 ### 💻 Pila tecnológica
