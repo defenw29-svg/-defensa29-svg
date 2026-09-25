@@ -89,41 +89,21 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 <img width="1920" height="1280" alt="image_20260926_004346-uso-etico-y-con-permiso-mejor-en-el-medio-icluye-mi-nombre-herramientas-clave" src="https://github.com/user-attachments/assets/0df23a59-ad52-4115-9dbe-f798aed560d1" />
 
 ---
-
-### 💻 Pila tecnológica
-
-**Seguridad & Redes**
-![PaloAlto](https://img.shields.io/badge/PaloAlto-XSOAR-orange?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-Security-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=for-the-badge)
-![Trivy](https://img.shields.io/badge/Trivy-Hardening-red?style=for-the-badge)
-
 ### 💻 Pila tecnológica
 
 **Seguridad y Redes**
-![PaloAlto](https://img.shields.io/badge/PALOALTO-XSOAR-FF6A00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![Cisco](https://img.shields.io/badge/CISCO-SECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-ANALYSIS-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Trivy](https://img.shields.io/badge/TRIVY-HARDENING-C71B26?style=for-the-badge&logo=aqua&logoColor=white)
-
-### 💻 Pila tecnológica
-
-**Seguridad y Redes**
-![PaloAlto](https://img.shields.io/badge/PALOALTO-XSOAR-FF6A00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![Cisco](https://img.shields.io/badge/CISCO-SECURITY-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![XSOAR](https://img.shields.io/badge/PALOALTO-XSOAR-FF6A00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![CISCO](https://img.shields.io/badge/CISCO-SECURITY-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-ANALYSIS-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Trivy](https://img.shields.io/badge/TRIVY-HARDENING-C71B26?style=for-the-badge&logo=aqua&logoColor=white)
 
 **Sistemas y Automatización**
 ![Docker](https://img.shields.io/badge/DOCKER-SWARM-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/LINUX-UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-SCRIPTS-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-HARDEN-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/WINDOWS-HARDENING-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-AUTOMATION-FFC300?style=for-the-badge&logo=python&logoColor=black)
-![Ansible](https://img.shields.io/badge/ANSIBLE-PLAYBOOKS-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-VERSION-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-SOC-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Resumen del laboratorio actual
 **Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo y endurecimiento para SOC L1/L2. 
