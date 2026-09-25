@@ -97,5 +97,6 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 
 ---
 ### Resumen del laboratorio actual
-**Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo y endurecimiento para SOC L1/L2. Validación de ciclo de vida de parches en Ubuntu y Windows, deshabilitado de SMBv1 y cierre de puertos (vsftpd/21) con UFW.
-*Autor:** Iván Ajenjo Morales | L1/L2 ITIL SecOps | Licencia MIT
+**Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo y endurecimiento para SOC L1/L2. 
+Validación de ciclo de vida de parches en Ubuntu y Windows, deshabilitado de SMBv1 y cierre de puertos (vsftpd/21) con UFW.
+**Autor:** Iván Ajenjo Morales | L1/L2 ITIL SecOps | Licencia MIT
