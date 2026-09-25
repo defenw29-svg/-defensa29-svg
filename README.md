@@ -100,9 +100,9 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=defensa29-svg&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://vercel.app)
 
-![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=defensa29-svg&layout=compact&theme=tokyonight)
+![Idiomas principales](https://vercel.app)
 
 ---
 ### Resumen del laboratorio actual
