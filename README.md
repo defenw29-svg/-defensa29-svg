@@ -88,7 +88,6 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 
 <img width="1920" height="1280" alt="image_20260926_004346-uso-etico-y-con-permiso-mejor-en-el-medio-icluye-mi-nombre-herramientas-clave" src="https://github.com/user-attachments/assets/0df23a59-ad52-4115-9dbe-f798aed560d1" />
 
-
 ---
 
 ### 💻 Pila tecnológica
