@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
-(<img>, ![]<img width="1400" height="788" alt="bbefa799786133 5efa9bf3d1b49" src="https://github.com/user-attachments/assets/d2443797-f409-44c3-a4ed-ce0bdd8695ac" />
+<img width="1400" height="788" alt="bbefa799786133 5efa9bf3d1b49" src="https://github.com/user-attachments/assets/2a2b3be3-f079-4fca-b5a9-9bccaac99b0e" />
 
 
 
