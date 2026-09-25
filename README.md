@@ -1,8 +1,7 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
-<img width="2240" height="1120" alt="image_20260926_011333-mi-nombre-y-saca-infografia" src="https://github.com/user-attachments/assets/fadc8bc6-4493-4955-9254-f4f189fbd808" />
-<img width="2048" height="1152" alt="image_20260926_011147-por-mi-nombre-arriba" src="https://github.com/user-attachments/assets/4055e83b-c5a2-4eb8-aa5c-fc7638f1a8f2" />
+<img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/9d369e9a-7ade-4574-8ec5-ef845c77ba1a" />
 
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
