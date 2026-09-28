@@ -43,10 +43,15 @@ Fundamentos de Docker y SecOps demostrados de forma continua en mis laboratorios
 > No se trata de aprender todo, sino de construir una base sólida y seguir avanzando paso a paso.
 
 **1. REDES:** TCP/IP, DNS, HTTP/HTTPS, Subnetting, Firewall/VPN, Puertos y servicios
+
 **2. LINUX / WINDOWS:** Usuarios y permisos, Procesos y servicios, Logs, Bash/PowerShell
+
 **3. ACTIVE DIRECTORY:** Usuarios y grupos, Políticas (GPO), Permisos, Kerberos/LDAP, Windows Server
+
 **4. FUNDAMENTOS DE SEGURIDAD:** Amenazas y vulnerabilidades, Autenticación/Autorización, Criptografía básica, Hardening, Gestión de incidentes
+
 **5. PYTHON:** Automatización, Análisis de datos, Peticiones HTTP, Scripts de seguridad
+
 **6. LABORATORIOS:** Wireshark, Análisis de logs, Máquinas vulnerables, Proyectos prácticos, GitHub -> **Aquí están mis labs**
 
 ---
