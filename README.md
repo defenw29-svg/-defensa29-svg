@@ -94,6 +94,7 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 ![Herramientas Clave 8 - Blue Team](img/herramientas-8-v2.webp)<img width="1920" height="1280" alt="818976025_1068175202650230_5463084885802720459_n" src="https://github.com/user-attachments/assets/6d71f3d7-a22c-44ab-9c12-805cf983822f" />
 
 
+
 **FLUJO DE TRABAJO BLUE TEAM:**
 `Reconocimiento (Entiende el entorno) -> Análisis (Identifica riesgos) -> Validación (Confirma hallazgos)`
 
