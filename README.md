@@ -96,7 +96,7 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 
 > Las herramientas no sustituyen la metodología ni la autorización. Aprender, practicar y reportar de forma responsable.
 
-<img width="1920" height="1280" alt="818976025_1068175202650230_5463084885802720459_n" src="https://github.com/user-attachments/assets/94c1e1bc-1f20-4b6d-9847-50371125c984" />
+<img width="1920" height="1280" alt="image_20260929_000249-ahora-te-as-pasado-da-simetria-analisis-letras-identificacion-se-ven-mal-obser" src="https://github.com/user-attachments/assets/6cfa0c9f-278d-4c25-b17d-2f6ca4236699" />
 
 ---
 ### 💻 Pila tecnológica
