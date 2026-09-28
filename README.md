@@ -87,12 +87,19 @@ tshark -i eth0 -Y "smb.cmd == 0x72" # Detectar SMBv1
 #### 06 - OWASP ZAP [VULNS]
 Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo automático de mis labs web antes de publicar.
 
+
+### 🛠️ HERRAMIENTAS CLAVE PARA PRUEBAS CONTROLADAS
+> Pentesting y análisis de seguridad en entornos autorizados | Uso ético y con permiso
+
+![Herramientas Clave 8 - Blue Team](img/herramientas-8-v2.webp)<img width="1920" height="1280" alt="818976025_1068175202650230_5463084885802720459_n" src="https://github.com/user-attachments/assets/6d71f3d7-a22c-44ab-9c12-805cf983822f" />
+
+
 **FLUJO DE TRABAJO BLUE TEAM:**
 `Reconocimiento (Entiende el entorno) -> Análisis (Identifica riesgos) -> Validación (Confirma hallazgos)`
 
 > Las herramientas no sustituyen la metodología ni la autorización. Aprender, practicar y reportar de forma responsable.
 
-<img width="1920" height="1280" alt="image_20260926_004346-uso-etico-y-con-permiso-mejor-en-el-medio-icluye-mi-nombre-herramientas-clave" src="https://github.com/user-attachments/assets/0df23a59-ad52-4115-9dbe-f798aed560d1" />
+
 
 ---
 ### 💻 Pila tecnológica
