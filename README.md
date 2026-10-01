@@ -124,11 +124,6 @@ Escáner web útil para detectar fallos comunes. **Uso Blue Team:** Escaneo auto
 ![ACTIONS](https://img.shields.io/badge/GITHUB-ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SBOM](https://img.shields.io/badge/SBOM-CYCLONEDX-6E40C9?style=for-the-badge&logo=cyclonedx&logoColor=white)
 
-### Resumen del laboratorio actual v3.4
-**mi-pipeline-seguridad | Equipo-azul-laboratorio-sociedad-l1-l2:** Laboratorio de parcheo, endurecimiento y orquestación defensiva para SOC L1/L2.
-
-Validación de ciclo de vida de parches en Ubuntu/Windows, deshabilitado SMBv1 y cierre puertos vsftpd/21 con UFW + Pipeline SOC `Gitleaks T1078 + Trivy T1190 + CodeQL T1059` con Gate atómico `tmp -> validate -> mv` y `JQ Deep Search .. | .id? // empty`. Orquestación local `docker compose up secops-runner` idéntica a Actions -> `wazuh-alerts.json` a Wazuh `http://localhost:5601`.
-
-**Autor:** Iván Ajenjo Morales | L1/L2 ITIL SecOps | [Orquestación.md](./Orquestación.md) | Licencia MIT
+**Autor:** Iván Ajenjo Morales | L1/L2 ITIL SecOps | Licencia MIT
 
 ---
