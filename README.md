@@ -3,9 +3,6 @@
 
 <img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/9d369e9a-7ade-4574-8ec5-ef845c77ba1a" />
 
-
-Test insignias
-
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
 
 Profesional de Soporte Técnico y SecOps enfocado en mercado IT, con sólida formación práctica y certificaciones oficiales en ciberseguridad, automatización y gestión de incidencias L1/L2.
