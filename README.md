@@ -1,6 +1,6 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
 
-![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&label=Profile%20views&color=blue&style=flat-square)
 
 
 <img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/9d369e9a-7ade-4574-8ec5-ef845c77ba1a" />
