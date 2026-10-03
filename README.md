@@ -8,9 +8,6 @@ Profesional de Soporte Técnico y SecOps enfocado en mercado IT, con sólida for
 
 Fundamentos de Docker y SecOps demostrados de forma continua en mis laboratorios y publicaciones de esta red.
 
-![Vistas del perfil](https://shields.io)
-
-
 **🔹 CERTIFICACIONES Y COMPETENCIAS CLAVE:**
 
 🛡️ **Palo Alto Networks:** SecOps, arquitectura SOAR (Cortex XSOAR), gestión de amenazas (TIM) y aislamiento de endpoints (XDR/XSIAM).
