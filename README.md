@@ -8,7 +8,7 @@ Profesional de Soporte Técnico y SecOps enfocado en mercado IT, con sólida for
 
 Fundamentos de Docker y SecOps demostrados de forma continua en mis laboratorios y publicaciones de esta red.
 
-<img width="1669" height="1359" alt="image" src="https://github.com/user-attachments/assets/121a03a7-084c-4d84-bcf3-8723885e6bb3" />
+![Vistas del perfil](https://shields.io)
 
 
 **🔹 CERTIFICACIONES Y COMPETENCIAS CLAVE:**
