@@ -1,11 +1,6 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
 
-# IVÁN AJENJO MORALES - SOC - SECURITY OPERATIONS CENTER ACTIVE
-
-![Vistas del perfil](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
-
-
-![Vistas del perfil](https://komarev.com/ghpvc/?username=defenw29-svg&color=ff6a00&style=for-the-badge&label=VISITAS)
+<img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/c3da6f9a-8466-459f-8410-c8f25608f0f6" />
 
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
