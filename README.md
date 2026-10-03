@@ -1,7 +1,10 @@
 # 🚀 Especialista TI (IBM) | Junior SecOps & SIEM | Docker 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square)
 
+
 <img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/9d369e9a-7ade-4574-8ec5-ef845c77ba1a" />
+
 
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
 
@@ -34,6 +37,8 @@ Fundamentos de Docker y SecOps demostrados de forma continua en mis laboratorios
 🤖 **Automatización:** Desarrollo de scripts propios (.bat / .reg / .sh / .ps1) para optimización de sistemas y laboratorios de pruebas.
 
 🎧 **Soporte, Helpdesk y SLAs:** Configuración e incidencias en Windows (95 a 11). Titulación Oficial SEXPE: Empleado de Información al Cliente homologada, con competencias en soporte omnicanal, Helpdesk, cumplimiento de SLAs, aplicación de RGPD y gestión de Knowledge Base.
+
+<img width="1920" height="1280" alt="image_20261003_193535" src="https://github.com/user-attachments/assets/1c67f617-0ab3-4e2d-94d2-be266b455cb4" />
 
 ---
 
