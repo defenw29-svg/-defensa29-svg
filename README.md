@@ -3,6 +3,10 @@
 <img width="2240" height="2380" alt="combinado-ivan-ajenjomorales" src="https://github.com/user-attachments/assets/c3da6f9a-8466-459f-8410-c8f25608f0f6" />
 
 
+<img src="https://komarev.com/ghpvc/?username=defensa29-svg&color=blue&style=flat-square" alt="Vistas del perfil" />
+
+
+
 ### 🔥 Sobre mí - Profesional de Soporte Técnico y SecOps
 
 Profesional de Soporte Técnico y SecOps enfocado en mercado IT, con sólida formación práctica y certificaciones oficiales en ciberseguridad, automatización y gestión de incidencias L1/L2.
